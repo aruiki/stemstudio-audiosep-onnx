@@ -1,0 +1,9 @@
+{
+  "license": "Apache-2.0",
+  "filename": "audiosep-lead-mask.fp16w.onnx",
+  "windowSamples": 160000,
+  "sampleRate": 32000,
+  "bytes": 51434099,
+  "sha256": "c2970cd4c456288ba2c2ae01c205dda258e30fdbfc24a70586939cf4eefa71fd",
+  "sourceRevision": "9188caa202a0d31845367e4dad8bb5549eddb4ba"
+}

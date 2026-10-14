@@ -1,0 +1,4 @@
+AudioSep: Separate Anything You Describe
+Source implementation: https://github.com/Audio-AGI/AudioSep
+Source model: https://huggingface.co/nielsr/audiosep-demo
+Changes by StemStudio: fixed lead prompt embedding, FFT separation, ONNX export, float16 weight storage. No new training.
